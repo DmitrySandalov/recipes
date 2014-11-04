@@ -7,24 +7,23 @@ Ingredients:
 ------------
 Yield: 10 waffles (about 4-1/2 inches).
 
-* 2 cups (240g) all-purpose flour
-* 3/4 cup (150g) sugar
+* 240g (2 cups) all-purpose flour
+* 150g (3/4 cup) sugar
 * 3-1/2 teaspoons baking powder
 * 2 eggs, separated 
-* 1-1/2 (350 mL) cups milk
-* 1 cup (240g) butter, melted
+* 350 mL (1-1/2) cups milk
+* 240g (1 cup) butter, melted
 * 1 teaspoon vanilla extract
 * Sliced fresh strawberries or syrup
 
 Preparation
 -----------
-* In a bowl, combine flour, sugar and baking powder.
-* In another bowl, lightly beat egg yolks. 
+* In a bowl, lightly beat egg yolks. 
 * Add milk, butter and vanilla; mix well. 
-* Stir into dry ingredients just until combined. 
-* Beat egg whites until stiff peaks form; fold into batter.
+* Beat egg whites until stiff peaks form; fold into butter.
+* In another bowl, combine flour, sugar and baking powder.
+* Stir wet ingredients into dry just until combined. 
 * Bake in a preheated waffle iron according to manufacturer's directions until golden brown. 
-
 
 Serve and Taste
 ---------------
